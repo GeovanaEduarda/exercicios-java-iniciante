@@ -23,7 +23,7 @@ Arquivo/Pasta | Descrição
 ⚖️ **AtividadeCinco.java** | Verifica se um número é par ou ímpar  
 💫 **AtividadeSeis.java** | Calcula o fatorial de um número  
 🎯 **JogoNumAleatorio.java** | Jogo da adivinhação com número aleatório  
-🏦 **ControleBancario/** | Simula operações bancárias (consultar saldo, receber e transferir valores)
+🏦 **ControleBancario.java** | Simula operações bancárias (consultar saldo, receber e transferir valores)
 
 ---
 
