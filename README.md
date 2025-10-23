@@ -1,31 +1,42 @@
 # ☕ Exercícios em Java
 
-Projetos simples desenvolvidos enquanto aprendo **Java**.  
-Cada arquivo contém uma atividade prática feita para exercitar lógica de programação, estruturas de repetição, condicionais e uso de entrada de dados com `Scanner`.
+Repositório criado para armazenar atividades práticas e pequenos projetos desenvolvidos durante meus estudos de **Java**.  
+Cada arquivo representa um exercício voltado ao aprendizado de **lógica de programação**, **estruturas de repetição**, **condicionais** e **entrada de dados com `Scanner`**.
 
 ---
 
-## 📘 Conteúdo
+## 📚 Objetivo
 
-| Atividade | Descrição |
-|------------|------------|
-| 🧮 Atividade 1 | Verifica se um número é positivo ou negativo |
-| 🔢 Atividade 2 | Compara dois números inteiros |
-| ⬜ Atividade 3 | Calcula a área do quadrado ou do círculo |
-| ✖️ Atividade 4 | Exibe a tabuada de um número |
-| ⚖️ Atividade 5 | Verifica se um número é par ou ímpar |
-| 💫 Atividade 6 | Calcula o fatorial de um número |
+Este repositório serve como meu espaço de estudos, prática e evolução na linguagem Java.  
+A ideia é consolidar o que aprendo a cada aula ou módulo do curso, explorando desde conceitos básicos até desafios um pouco mais elaborados.
+
+---
+
+## 🧩 Conteúdo
+
+Arquivo | Descrição
+:-- | :--
+🧮 **AtividadeUm.java** | Verifica se um número é positivo ou negativo  
+🔢 **AtividadeDois.java** | Compara dois números inteiros  
+⬜ **AtividadeTres.java** | Calcula a área do quadrado ou do círculo  
+✖️ **AtividadeQuatro.java** | Exibe a tabuada de um número  
+⚖️ **AtividadeCinco.java** | Verifica se um número é par ou ímpar  
+💫 **AtividadeSeis.java** | Calcula o fatorial de um número  
+🎯 **JogoNumAleatorio.java** | Jogo da adivinhação com número aleatório (gera um número aleatório e o usuário tenta adivinhar)
 
 ---
 
 ## 🛠️ Tecnologias utilizadas
-- **Java 17+**
-- **IntelliJ IDEA** 
-- **Git e GitHub**
+
+- ☕ **Java 17+**
+- 🧰 **IntelliJ IDEA**
+- 🌀 **Git e GitHub**
+- 💻 **Linha de comando (Terminal)**
 
 ---
 
-## 🚀 Como executar
-1. Clone o repositório:
+## 🚀 Como executar os programas
+
+1. **Clone o repositório:**
    ```bash
    git clone https://github.com/GeovanaEduarda/exercicios-java-iniciante.git
